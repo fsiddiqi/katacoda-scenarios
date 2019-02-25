@@ -1,6 +1,6 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Developer Central Scenario",
+  "description": "Consume an API via Developer Central",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
