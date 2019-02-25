@@ -2,7 +2,7 @@
 
 `npm start &`{{execute}}
 
-####� Load Dashboard
+#### Load Dashboard
 
 You can load the angular application on the dashboard or via the following URL https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/ or by clicking the dashboard tab on the right (note: sometimes, you need to wait a few seconds and press "display port" at this point).
 
