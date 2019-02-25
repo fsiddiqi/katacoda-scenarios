@@ -1,8 +1,5 @@
-#### Start Service:
+#### Install packages via NPM
 
-`npm start &`{{execute}}
+`npm i`{{execute}}
 
-#### Open app in browser
-
-Load the application via this URL https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/ 
-You may need to wait a few seconds.
+Any warnings can be ignored - this is a temporary environment
