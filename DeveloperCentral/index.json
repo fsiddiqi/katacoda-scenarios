@@ -5,9 +5,14 @@
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Start something",
-      "text": "step1.md"
-    }],
+        "title": "Clone repository and install dependencies",
+        "text": "step1.md"
+      },
+      {
+        "title": "NPM: Resolve Dependencies",
+        "text": "step2.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
       "credits": ""
