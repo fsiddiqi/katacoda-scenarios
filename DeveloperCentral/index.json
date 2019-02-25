@@ -5,12 +5,20 @@
   "time": "20 minutes",
   "details": {
     "steps": [{
-        "title": "Clone repository",
+        "title": "Get some starting code",
         "text": "step1.md"
       },
       {
-        "title": "NPM: Resolve Dependencies",
+        "title": "Install  Dependencies",
         "text": "step2.md"
+      },
+      {
+        "title": "Run the app",
+        "text": "step3.md"
+      },
+      {
+        "title": "Load the app in a browser",
+        "text": "step4.md"
       }
     ],
     "intro": {
