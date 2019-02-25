@@ -5,6 +5,9 @@
   "time": "20 minutes",
   "details": {
     "steps": [{
+        "title": "What's this all about?",
+        "text": "step0.md"
+      }, {
         "title": "Get some starting code",
         "text": "step1.md"
       },
