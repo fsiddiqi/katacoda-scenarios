@@ -4,7 +4,7 @@
 #### Clone Quickstart Template
 
 Clone the Quickstart Template:
-`git clone https://github.com/angular/quickstart; cd quickstart`{{execute}}
+`git clone https://github.com/fsiddiqi/api-client; cd api-client`{{execute}}
 
 #### Install packages via NPM:
 

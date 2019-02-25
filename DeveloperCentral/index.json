@@ -2,10 +2,10 @@
   "title": "Developer Central Scenario",
   "description": "Consume an API via Developer Central",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "20 minutes",
   "details": {
     "steps": [{
-        "title": "Clone repository and install dependencies",
+        "title": "Clone repository",
         "text": "step1.md"
       },
       {
